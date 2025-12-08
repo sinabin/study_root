@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend_root/HTTP_STATUS_CODE_REFACTORING_PLAN.md",
+                "file": "front_root/FrontEnd 빌드관련 이슈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP_STATUS_CODE_REFACTORING_PLAN"
+              "title": "FrontEnd 빌드관련 이슈"
             }
           }
         ]
@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c313770bf869730f",
+  "active": "74180d06e53cadab",
   "lastOpenFiles": [
-    "backend_root/HWP_TO_PDF_IMPLEMENTATION_PLAN.md",
     "backend_root/HTTP_STATUS_CODE_REFACTORING_PLAN.md",
+    "front_root/FrontEnd 빌드관련 이슈.md",
+    "backend_root/HWP_TO_PDF_IMPLEMENTATION_PLAN.md",
     "front_root/React_Vue_SideEffects_Guide.md",
     "backend_root/ORACLE_CLOB_JSON_SERIALIZATION_ERROR.md",
     "front_root/React_Vue_Reactivity_Misconceptions.md",
