@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "front_root/FrontEnd 빌드관련 이슈.md",
+                "file": "front_root/vue-ref-vs-react-usestate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FrontEnd 빌드관련 이슈"
+              "title": "vue-ref-vs-react-usestate"
             }
           }
         ]
@@ -73,12 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c2de5772ca24a84f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "right": {
     "id": "87d91825e80008f3",
@@ -180,19 +191,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "74180d06e53cadab",
+  "active": "c313770bf869730f",
   "lastOpenFiles": [
-    "backend_root/HTTP_STATUS_CODE_REFACTORING_PLAN.md",
-    "front_root/FrontEnd 빌드관련 이슈.md",
-    "backend_root/HWP_TO_PDF_IMPLEMENTATION_PLAN.md",
     "front_root/React_Vue_SideEffects_Guide.md",
-    "backend_root/ORACLE_CLOB_JSON_SERIALIZATION_ERROR.md",
     "front_root/React_Vue_Reactivity_Misconceptions.md",
-    "front_root/Vue_vs_React_Stability.md",
+    "backend_root/SPRING_BOOT_PROJECT_REVIEW.md.tmp.20320.1765851160866",
+    "backend_root/ORACLE_CLOB_JSON_SERIALIZATION_ERROR.md",
     "backend_root/SPRING_BOOT_PROJECT_REVIEW.md",
+    "backend_root/REST_API_설계_가이드_레거시vs현대.md",
+    "backend_root/HWP_TO_PDF_IMPLEMENTATION_PLAN.md",
+    "backend_root/HTTP_STATUS_CODE_REFACTORING_PLAN.md",
+    "AI-Agent/MCP_SERVER_TEMPLATE.md",
+    "AI-Agent/DB_SCHEMA MCP 서버 구축해보기.md",
+    "AI-Agent/AI-Agent.md",
+    "front_root/front_root.md",
+    "front_root/vue-ref-vs-react-usestate.md",
+    "front_root/Vue_vs_React_Stability.md",
+    "backend_root/SPRING_BOOT_PROJECT_REVIEW.md.tmp.20320.1765849901562",
+    "front_root/FrontEnd 빌드관련 이슈.md",
+    "backend_root/backend_root.md",
+    "Tags",
+    "Untitled.canvas",
+    "AI-Agent",
+    "새 폴더",
     "backend_root"
   ]
 }
