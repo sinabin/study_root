@@ -40,9 +40,10 @@
   "expandedSpaces": [
     "/",
     "//Tags",
+    "//Work_issue",
     "//AI-Agent",
-    "//backend_root",
-    "//front_root"
+    "//front_root",
+    "//backend_root"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
