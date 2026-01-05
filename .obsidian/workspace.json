@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "backend_root/JWT_OAuth2_Guide.md",
+=======
+                "file": "Work_issue/TOMCAT_SCRIPTS_GUIDE.md",
+>>>>>>> 93912e11d7e49b05802ed8b3a4cefd647c5d2992
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "JWT_OAuth2_Guide"
+=======
+              "title": "TOMCAT_SCRIPTS_GUIDE"
+>>>>>>> 93912e11d7e49b05802ed8b3a4cefd647c5d2992
             }
           }
         ]
@@ -75,7 +83,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "27c0d5a5184286f2",
+=======
+            "id": "9dcb83f744587440",
+>>>>>>> 93912e11d7e49b05802ed8b3a4cefd647c5d2992
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,7 +209,18 @@
   },
   "active": "c313770bf869730f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "backend_root/HTTP_STATUS_CODE_REFACTORING_PLAN.md",
+=======
+    "Work_issue/nFilter(보안 키패드) 호환성 패치 내역 요약.md",
+    "Work_issue/nFilter 보안 키패드 윈도우 환경 실행 불가 이슈.md",
+    "Work_issue/Work_issue.md",
+    "backend_root/backend_root.md",
+    "front_root/front_root.md",
+    "AI-Agent/AI-Agent.md",
+    "Untitled.md",
+    "Work_issue",
+>>>>>>> 93912e11d7e49b05802ed8b3a4cefd647c5d2992
     "front_root/vue-ref-vs-react-usestate.md",
     "Tags",
     "front_root/React_Vue_SideEffects_Guide.md",
@@ -209,12 +232,18 @@
     "backend_root/HWP_TO_PDF_IMPLEMENTATION_PLAN.md",
     "AI-Agent/MCP_SERVER_TEMPLATE.md",
     "AI-Agent/DB_SCHEMA MCP 서버 구축해보기.md",
+<<<<<<< HEAD
     "AI-Agent/AI-Agent.md",
     "front_root/front_root.md",
     "front_root/Vue_vs_React_Stability.md",
     "backend_root/SPRING_BOOT_PROJECT_REVIEW.md.tmp.20320.1765849901562",
     "front_root/FrontEnd 빌드관련 이슈.md",
     "backend_root/backend_root.md",
+=======
+    "front_root/Vue_vs_React_Stability.md",
+    "backend_root/SPRING_BOOT_PROJECT_REVIEW.md.tmp.20320.1765849901562",
+    "front_root/FrontEnd 빌드관련 이슈.md",
+>>>>>>> 93912e11d7e49b05802ed8b3a4cefd647c5d2992
     "Untitled.canvas",
     "AI-Agent",
     "새 폴더",
