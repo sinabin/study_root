@@ -11,10 +11,12 @@
             "id": "a025acbadf9faf96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "mk-space",
+              "state": {
+                "path": "mk-core://settings"
+              },
+              "icon": "lucide-file",
+              "title": "Settings"
             }
           }
         ]
@@ -71,7 +73,7 @@
             }
           },
           {
-            "id": "0a843249250cc3fc",
+            "id": "26313ec450a4866e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -101,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front_root/postMessage_API_가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "postMessage_API_가이드 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -120,12 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front_root/postMessage_API_가이드.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "postMessage_API_가이드 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -172,7 +172,8 @@
               "title": "postMessage_API_가이드 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,12 +195,25 @@
   },
   "active": "a025acbadf9faf96",
   "lastOpenFiles": [
-    "front_root/postMessage_API_가이드.md",
-    "front_root/vue-ref-vs-react-usestate.md",
-    "AI-Agent/DB_SCHEMA MCP 서버 구축해보기.md",
-    "AI-Agent/MCP_SERVER_TEMPLATE.md",
+    "Work_issue/nFilter(보안 키패드) 호환성 패치 내역 요약.md",
     "Work_issue/TOMCAT_SCRIPTS_GUIDE.md",
     "Work_issue/nFilter 보안 키패드 윈도우 환경 실행 불가 이슈.md",
-    "Work_issue/nFilter(보안 키패드) 호환성 패치 내역 요약.md"
+    "AI-Agent/MCP_SERVER_TEMPLATE.md",
+    "AI-Agent/DB_SCHEMA MCP 서버 구축해보기.md",
+    "front_root/React_Vue_Reactivity_Misconceptions.md",
+    "front_root/Vue_vs_React_Stability.md",
+    "front_root/React_Vue_SideEffects_Guide.md",
+    "front_root/vue-ref-vs-react-usestate.md",
+    "front_root/front_root.md",
+    "backend_root/backend_root.md",
+    "backend_root/HTTP_STATUS_CODE_REFACTORING_PLAN.md",
+    "2026-01-11.md",
+    "backend_root/HWP_TO_PDF_IMPLEMENTATION_PLAN.md",
+    "backend_root/ORACLE_CLOB_JSON_SERIALIZATION_ERROR.md",
+    "backend_root/JWT_OAuth2_Guide.md",
+    "backend_root/REST_API_설계_가이드_레거시vs현대.md",
+    "backend_root/SPRING_BOOT_PROJECT_REVIEW.md",
+    "backend_root/Spring_Classpath_ViewResolver.md",
+    "front_root/postMessage_API_가이드.md"
   ]
 }

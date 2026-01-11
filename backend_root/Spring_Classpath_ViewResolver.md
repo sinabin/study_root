@@ -1,3 +1,7 @@
+---
+aliases: []
+sticker: emoji//1f636-200d-1f32b-fe0f
+---
 # Spring Boot Classpath와 ViewResolver 정리
 
 ## 1. Spring MVC 요청 처리 흐름
