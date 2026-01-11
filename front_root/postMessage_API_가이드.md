@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f600
+---
 # postMessage API 완벽 가이드
 
 ## postMessage API란?
